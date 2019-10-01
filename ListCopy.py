@@ -3,4 +3,5 @@ copyList=[]
 #this code copies the code of list l to CopyList
 CopyList=[x for x in l]
 
+# list to tuple
 list2tuple = tuple(l)
