@@ -5,3 +5,5 @@ CopyList=[x for x in l]
 
 # list to tuple
 list2tuple = tuple(l)
+
+squareList = lambda l: [i**2 for i in l]
